@@ -13,6 +13,7 @@
 - **Subject Code:** BE04000231  
 - **Semester:** 4th Semester (2nd Year)  
 - **Academic Year:** Jan 2026  
+- **Linkdln id:** www.linkedin.com/in/harsh-bhayani-746872395
 
 ---
 
